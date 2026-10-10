@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated wave header -->
-<img src="https://raw.githubusercontent.com/shanujay/shanujay/main/assets/github_header.gif" width="100%"/>
+<!-- Animated wave header 
+<img src="https://raw.githubusercontent.com/shanujay/shanujay/main/assets/github_header.gif" width="100%"/>-->
 
 </div>
 
