@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/portfolio-hero.PNG" width="100%"/>
+<img src="assets/portfolio-hero.png" width="100%"/>
 
 </div>
 
