@@ -17,10 +17,12 @@
 
 ## Who’s Behind The Code?
 
-<img align="left" src="assets/about-me.png" width="260" alt="About me"/>
+<img align="left" src="assets/about-me.png" width="200" alt="About me"/>
 
 <p>Heyy I'm <b><i>Sahani</i></b>, a Software Engineering undergraduate and Junior Developer who enjoys building things, figuring out how they work, and turning random crazy ideas into actual projects</p>
+<br />
 <p>I'm interested in software development, frontend engineering, UI/UX, and exploring new technologies. Most of what I learn comes from building crazy personal projects, university work, experiments, and real-world development.</p>
+<br />
 <p>Currently learning, building, experimenting, and randomly thinking that <b><i>“I wonder if I can build that…”</i></b> before turning it into another project. 😅</p>
 
 <br clear="right"/>
