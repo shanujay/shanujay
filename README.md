@@ -1,11 +1,8 @@
 <div align="center">
 
-<!-- Animated wave header 
-<img src="https://raw.githubusercontent.com/shanujay/shanujay/main/assets/github_header.gif" width="100%"/>-->
+<img src="assets/portfolio-hero.png" width="100%"/>
 
 </div>
-
-<br/>
 
 <!-- Socials -->
 <div align="center">
