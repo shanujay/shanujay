@@ -4,6 +4,8 @@
 
 </div>
 
+<br />
+
 <!-- Socials -->
 <div align="center">
   <a href="https://linkedin.com/in/shanujay"><img src="https://img.shields.io/badge/LinkedIn-2d2440?style=flat-square&logo=linkedin&logoColor=C6B8E8&labelColor=2d2440" /></a>
@@ -52,43 +54,53 @@
 ## A Little Peek At My GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shanujay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=C6B8E8&icon_color=8877b3&text_color=d8cdf0&ring_color=4a3b6b" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanujay&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=C6B8E8&text_color=d8cdf0" width="38%" />
+
+<!-- Terminal-style banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a2e&height=70&text=%24%20git%20log%20--stat&fontColor=C6B8E8&fontSize=28&fontAlign=15&animation=fadeIn" width="100%"/>
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanujay&theme=tokyonight&hide_border=true&background=1a1a2e&stroke=4a3b6b&ring=8877b3&fire=C6B8E8&currStreakLabel=d8cdf0" width="60%"/>
-</div>
+```bash
+shanujay@github:~$ whoami
+> Sahani · Software Engineering undergrad · Junior Dev
+
+shanujay@github:~$ cat status.txt
+> mode        : building crazy ideas
+> fuel        : coffee ☕ + curiosity
+> bugs        : "it works on my machine"
+> next        : "I wonder if I can build that…"
+
+shanujay@github:~$ git stats --live
+```
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanujay&theme=tokyo-night&hide_border=true&bg_color=1a1a2e&color=C6B8E8&line=8877b3&point=d8cdf0" width="90%"/>
+
+<!-- Live stats with command-style titles -->
+<img src="https://github-readme-stats.vercel.app/api?username=shanujay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=C6B8E8&icon_color=8877b3&text_color=d8cdf0&ring_color=8877b3&include_all_commits=true&custom_title=git%20status&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanujay&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=C6B8E8&text_color=d8cdf0&custom_title=ls%20languages%2F&card_width=300" height="170"/>
+
 </div>
 
 <br/>
 
-## Projects I'm Proud of
-
-<div align="center">
-  <a href="https://github.com/shanujay/project-one">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shanujay&repo=project-one&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=C6B8E8&icon_color=8877b3&text_color=d8cdf0" />
-  </a>
-  <a href="https://github.com/shanujay/project-two">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shanujay&repo=project-two&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=C6B8E8&icon_color=8877b3&text_color=d8cdf0" />
-  </a>
-</div>
-
-<br/>
-
-<!-- Snake animation (contribution graph eating itself) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/shanujay/shanujay/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-</div>
+<details>
+<summary><b>▶ git log --graph &nbsp;<sub>(click to expand streak &amp; activity)</sub></b></summary>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8877b3,50:4a3b6b,100:1a1a2e&height=120&section=footer" width="100%"/>
+
+<img src="https://streak-stats.demolab.com/?user=shanujay&theme=tokyonight&hide_border=true&background=1a1a2e&stroke=4a3b6b&ring=8877b3&fire=C6B8E8&currStreakLabel=d8cdf0&currStreakNum=d8cdf0&sideNums=d8cdf0&sideLabels=C6B8E8&dates=8877b3" width="75%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shanujay&theme=tokyo-night&hide_border=true&bg_color=1a1a2e&color=C6B8E8&line=8877b3&point=d8cdf0&area=true&area_color=4a3b6b" width="95%"/>
+
 </div>
+
+</details>
+
+<br/>
+<!-- 
+<img src="assets/portfolio-hero.png" width="100%"/> -->
 
 <div align="center">
   <sub>💜 Thanks for stopping by — don't forget to star a repo or two!</sub>
