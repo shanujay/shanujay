@@ -8,11 +8,12 @@
 
 <!-- Socials -->
 <div align="center">
-  <a href="https://linkedin.com/in/shanujay"><img src="https://img.shields.io/badge/LinkedIn-2d2440?style=flat-square&logo=linkedin&logoColor=C6B8E8&labelColor=2d2440" /></a>
+  <a href="https://www.linkedin.com/in/sahani-anuttara"><img src="https://img.shields.io/badge/LinkedIn-2d2440?style=flat-square&logo=linkedin&logoColor=C6B8E8&labelColor=2d2440" /></a>
+  <!--
   &nbsp;&nbsp;
-  <a href="https://yourportfolio.dev"><img src="https://img.shields.io/badge/Portfolio-2d2440?style=flat-square&logo=aboutdotme&logoColor=C6B8E8&labelColor=2d2440" /></a>
+  <a href="https://yourportfolio.dev"><img src="https://img.shields.io/badge/Portfolio-2d2440?style=flat-square&logo=aboutdotme&logoColor=C6B8E8&labelColor=2d2440" /></a> -->
   &nbsp;&nbsp;
-  <a href="https://behance.net/shanujay"><img src="https://img.shields.io/badge/Behance-2d2440?style=flat-square&logo=behance&logoColor=C6B8E8&labelColor=2d2440" /></a>
+  <a href="https://www.behance.net/sahanianuttara"><img src="https://img.shields.io/badge/Behance-2d2440?style=flat-square&logo=behance&logoColor=C6B8E8&labelColor=2d2440" /></a>
 </div>
 
 <br/>
