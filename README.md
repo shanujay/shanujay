@@ -104,5 +104,5 @@ shanujay@github:~$ git stats --live
 <img src="assets/portfolio-hero.png" width="100%"/> -->
 
 <div align="center">
-  <sub>💜 Thanks for stopping by — don't forget to star a repo or two!</sub>
+  <sub>💜 Thanks for stopping by, don't forget to star a repo or two!</sub>
 </div>
